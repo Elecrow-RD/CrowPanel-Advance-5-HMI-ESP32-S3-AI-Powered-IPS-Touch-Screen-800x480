@@ -27,7 +27,7 @@
 ② Version 1.1 has a new option for function switching, see above for details. When using the case, please select the corresponding program to test or modify according to the version number of your motherboard.
 
 ① Version 1.2 introduces an updated backlight control function. In this iteration, the backlight is managed by the STC8H1K28 microcontroller. The programme illuminates the backlight by transmitting numerical values to the microcontroller's address (0x30). Brightness adjustment spans 0-245 levels, where 0 denotes maximum brightness, 244 represents minimum brightness, and 245 disables the backlight.
-
+Updated the button module.
 The buzzer control principle mirrors that of the backlight: sending 246 activates the buzzer, while sending 247 deactivates it.
 
 

@@ -67,7 +67,7 @@ The buzzer control principle mirrors that of the backlight: sending 246 activate
 | Storage temperature                          | -30~80 °C                                                    |
 | Power Input                                  | 5V/2A, USB or UART terminal                                  |
 | Active Area                                  | 108mm*65mm                                                   |
-| Dimensions                                   | 136.4*84.7*15.4mm                                            |
+| Dimensions                                   | 136.4\*84.7*15.4mm                                            |
 
 ### 4, Use the driver module
 

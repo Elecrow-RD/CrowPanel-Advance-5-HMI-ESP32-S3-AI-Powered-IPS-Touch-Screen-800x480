@@ -30,7 +30,7 @@
 Updated the button module.
 The buzzer control principle mirrors that of the backlight: sending 246 activates the buzzer, while sending 247 deactivates it.
 
-④ **Version 1.2** features shorter buttons and subtle changes to the casing around the buttons.
+④ **Version 1.2** Version 1.3,Only the button component has been updated. All other hardware and I/O pins remain the same as in the previous version.
 
 ### 3, product information
 
@@ -40,7 +40,7 @@ The buzzer control principle mirrors that of the backlight: sending 246 activate
 | System Memory                                | 512KB SRAM、8M PSRAM                                         |
 | Memory                                       | 16M Flash，384KB ROM                                         |
 | Development Language                         | MicroPython、C/C++                                           |
-| Development Environment                      | ESP-IDF、Arduino IDE、PlatformIO、Micro Python、LVGL         |
+| Development Environment                      | ESP-IDF、Arduino IDE、PlatformIO、MicroPython        |
 | **Screen**                                   |                                                              |
 | Size                                         | 5.0 inch                                                     |
 | Diver IC                                     | ST7262                                                       |

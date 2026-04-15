@@ -30,7 +30,7 @@
 Updated the button module.
 The buzzer control principle mirrors that of the backlight: sending 246 activates the buzzer, while sending 247 deactivates it.
 
-④ **Version 1.2** Version 1.3,Only the button component has been updated. All other hardware and I/O pins remain the same as in the previous version.
+④ **Version 1.2** ,Only the button component has been updated. All other hardware and I/O pins remain the same as in the previous version.
 
 ### 3, product information
 

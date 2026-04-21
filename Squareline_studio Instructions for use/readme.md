@@ -10,7 +10,7 @@ LVGL (LittlevGL) is an open-source, lightweight, high-performance embedded graph
 
 SquareLine Studio is a next-generation user interface (UI) solution for individuals and professionals, allowing users to quickly and easily design and develop aesthetically pleasing UI for embedded devices. This software provides integrated design, prototyping, and development capabilities, supporting the export of platform independent C or MicroPython code for LVGL (Lightweight Graphics Library), which can be compiled and run on any vendor's device.
 
-![2](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\2.webp)
+![2](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/2.webp)
 
 ## 2.Install SquareLine Studio
 
@@ -20,33 +20,33 @@ SquareLine Studio is a next-generation user interface (UI) solution for individu
 
 Enter the https://squareline.io/ to download the SquareLine installation file.
 
-![3](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\3.webp)
+![3](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/3.webp)
 
 
 
 Download the version 1.4.0
 
-![4](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\4.webp)
+![4](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/4.webp)
 
 Double-click the setup.exe file.
 
-![5](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\5.webp)
+![5](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/5.webp)
 
 Click install.
 
-![6](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\6.webp)
+![6](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/6.webp)
 
 Wait for installation.
 
-![7](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\7.webp)
+![7](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/7.webp)
 
 Installation finish.
 
-![8](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\8.webp)
+![8](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/8.webp)
 
 There is a 30-day trial period for the first time you use it. Please follow the prompts to register an account. You will continue to use it when you log in to your account next time.
 
-![9](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\9.webp)
+![9](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/9.webp)
 
 ### **2.2** Software Function Introduction
 
@@ -54,11 +54,11 @@ Open the software
 
 The historical project page: open the project built earlier.
 
-![10](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\10.webp)
+![10](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/10.webp)
 
 Create a project page: choose different platforms according to different hardware of the project.
 
-![11](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\11.webp)
+![11](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/11.webp)
 
 ###### When select the Arduino framwork, there's only one option "Arduino with TFT_eSPI". By choosing this, the squareline studio will generate a template code suitable for the TFT_eSPI library. However, squareline studio not only supports the TFT_eSPI library, it supports a variety of libraries to suit different hardware and application needs. For example, Adafruit_GFX library, LovyanGFX etc.
 
@@ -66,15 +66,15 @@ Create a project page: choose different platforms according to different hardwar
 
 Example page. This page has several official examples for reference.
 
-![12](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\12.webp)
+![12](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/12.webp)
 
 The project settings bar is used to make basic settings for the project, including property settings such as project name, screen size, display angle, etc.
 
-![13](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\13.webp)
+![13](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/13.webp)
 
 ###### Note： Please select the corresponding resolution and color depth according to the screen specifications.
 
-![14](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\14.webp)
+![14](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/14.webp)
 
 ##### ①Toolbar, including File, Export, and Help. Basic file operation bar, create or open files, export UI files and other operations. Click help and there are related introductory documents.
 
@@ -98,81 +98,81 @@ The project settings bar is used to make basic settings for the project, includi
 
 Firstly, open the SquareLine Studio software and create a case study
 
-![15](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\15.webp)
+![15](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/15.webp)
 
 Choose the correct resolution based on the different sizes you are using
 
-![16](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\16.webp)
+![16](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/16.webp)
 
 Here, I take a 7.0-inch screen as an example. After determining the resolution, I fill it in
 
-![17](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\17.webp)
+![17](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/17.webp)
 
 After selecting the parameters, click Create
 
-![18](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\18.webp)
+![18](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/18.webp)
 
 Open the photo of the desk lamp we provided and add it in. (Of course, you can also choose the image you want to use)
 
-![19](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\19.webp)
+![19](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/19.webp)
 
-![20](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\20.webp)
+![20](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/20.webp)
 
 The lamp_28 image size is available for both 2.4-inch and 2.8-inch screens.
 
 Table_1amp image sizes are available for 3.5-inch, 4.3-inch, 5.0-inch, and 7-inch screens.
 
-![21](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\21.webp)
+![21](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/21.webp)
 
 After adding it, drag and drop the image in.
 
-![22](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\22.webp)
+![22](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/22.webp)
 
 The task we need to complete is to turn on and off the lights by clicking on the buttons on the graphical interface. So we need to design two buttons
 
 From the left sidebar, select Button and drag it into the interface.
 
-![23](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\23.webp)
+![23](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/23.webp)
 
 You can adjust the border of the button with the mouse, which can adjust the size of the button, and you can also drag and drop the button to adjust its position.
 
 Then, by selecting Background, choose the background color of the Button.
 
-![24](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\24.webp)
+![24](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/24.webp)
 
-![25](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\25.webp)
+![25](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/25.webp)
 
 We have made the button patterns, and now we need to add labels to the button patterns in order to distinguish their functions.
 
 Drag and drop from the left sidebar, select Label, and drag into the interface.
 
-![26](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\26.webp)
+![26](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/26.webp)
 
 Modify the text content of the label
 
-![27](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\27.webp)
+![27](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/27.webp)
 
 And modify the font size and text color of the text
 
-![28](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\28.webp)
+![28](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/28.webp)
 
 The Button and Label have been designed. Click on the Hierarchy in the right-hand column and drag the Label onto the Button line to merge them into one.
 
-![29](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\29.webp)
+![29](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/29.webp)
 
 At this point, if you drag the buttons again, you will find that they are dragged together
 
 Next, we will copy a completed button, right-click, and paste it in.
 
-![30](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\30.webp)
+![30](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/30.webp)
 
-![31](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\31.webp)
+![31](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/31.webp)
 
-![32](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\32.webp)
+![32](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/32.webp)
 
 Click the second button ON to change the text content to Off. Used to achieve the effect of turning off lights.
 
-![33](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\33.webp)
+![33](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/33.webp)
 
 ## **4** Add functions to the buttons to enable them to turn on and off lights
 
@@ -180,27 +180,27 @@ Click the second button ON to change the text content to Off. Used to achieve th
 
 Select 'event' to add in the right sidebar
 
-![34](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\34.webp)
+![34](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/34.webp)
 
 Select 'released' as the triggering condition and 'Call function' as the action.
 
-![35](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\35.webp)
+![35](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/35.webp)
 
 After selecting, click ADD.
 
 And add a function name to the CALL Function. (Customization is sufficient)
 
-![36](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\36.webp)
+![36](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/36.webp)
 
 Similarly, add an event to the Off button. The operation process is the same as above.
 
-![37](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\37.webp)
+![37](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/37.webp)
 
 After adding, run
 
-![38](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\38.webp)
+![38](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/38.webp)
 
-![39](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\39.webp)
+![39](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/39.webp)
 
 ## **5** UI interface design completed, exporting UI files for easy use in subsequent code
 
@@ -208,23 +208,23 @@ After adding, run
 
 Click on Project Setting
 
-![40](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\40.webp)
+![40](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/40.webp)
 
 Set export path
 
-![41](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\41.webp)
+![41](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/41.webp)
 
-![42](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\42.webp)
+![42](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/42.webp)
 
 Complete the setup and export file
 
-![43](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\43.webp)
+![43](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/43.webp)
 
 Copy and paste the exported code into the code folder we need to open
 
-![44](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\44.webp)
+![44](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/44.webp)
 
-![45](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\45.webp)
+![45](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/45.webp)
 
 Then double-click BigInch_LVGL.ino and open it using Arduino IDE
 
@@ -235,19 +235,19 @@ Then double-click BigInch_LVGL.ino and open it using Arduino IDE
 
 Connect the light bulb at the UART1 interface
 
-![46](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\46.webp)
+![46](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/46.webp)
 
 Observing the schematic diagram of this size, it is known that the pin for UART1 to control the light bulb to turn on and off is 19
 
-![47](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\47.webp)
+![47](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/47.webp)
 
-![48](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\48.webp)
+![48](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/48.webp)
 
 A large-sized screen requires setting 19 pins as the output mode.
 
 (Due to the fact that pin 19 in the circuit of large-sized products controls both the wireless module and the UART1 interface, it is necessary to switch the mode to 0 1)
 
-![49](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\49.webp)
+![49](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/49.webp)
 
 ![SquareLine1](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/SquareLine1.webp)
 
@@ -255,7 +255,7 @@ And add the function of turning on and off the light bulb in the ui_ event. c fi
 
 (When the On button is clicked, the light is on; when the Off button is clicked, the light is off)
 
-![50](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\50.webp)
+![50](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/50.webp)
 
 
 ### *Kind Reminder:*
@@ -264,7 +264,7 @@ You are currently viewing the 7-inch product of CrowPanel Advance HMI, and the v
 
 In terms of hardware, we use a microcontroller (STC8H1K28) to control the screen backlight, speaker on/off, and buzzer.
 
-![advance-7-1.3-1](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\advance-7-1.3-1.webp)
+![advance-7-1.3-1](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/advance-7-1.3-1.webp)
 
 (However, there are other function interfaces that need to be written in the specific code, and you can refer to the complete code provided later.)
 
@@ -286,15 +286,15 @@ You can also control the following functions by sending other instructions to th
 
 - It means sending the 248 command to the microcontroller (0x30) to instruct the speaker to turn on.
 
-![advance-7-1.3-2](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\advance-7-1.3-2.webp)
+![advance-7-1.3-2](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/advance-7-1.3-2.webp)
 
 - It means sending the 249 command to the microcontroller (0x30) to instruct the speaker to turn off.
 
-![advance-7-1.3-3](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\advance-7-1.3-3.webp)
+![advance-7-1.3-3](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/advance-7-1.3-3.webp)
 
 - You can also send command 246 to control the buzzer to turn on, and send command 247 to control the buzzer to turn off.
 
-![advance-7-1.3-4](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\advance-7-1.3-4.webp)
+![advance-7-1.3-4](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/advance-7-1.3-4.webp)
 
 
 
@@ -307,19 +307,19 @@ You can also control the following functions by sending other instructions to th
 
 (For large-sized screens of 4.3 inches, 5.0 inches, and 7.0 inches, be sure to switch the mode to 0 1 state before uploading the code, because the pins of UART1 and W-M mode are both used in 0 1 mode, so that you can use the pins of UART1)
 
-![51](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\51.webp)
+![51](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/51.webp)
 
-![52](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\52.webp)
+![52](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/52.webp)
 
 So you can see the UI interface you just designed
 
-![53](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\53.webp)
+![53](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/53.webp)
 
 You can click the On and Off buttons to control the on/off of the lights
 
-![54](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\54.webp)
+![54](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/54.webp)
 
-![55](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\55.webp)
+![55](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/55.webp)
 
 ## 8 Code presentation
 
@@ -484,7 +484,7 @@ void loop()
 
 **If your code compiles incorrectly, you can check if the ESP32 version number is correct. The ESP32 version number we need for this lesson is 3.0.2.**
 
-![new-1](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\new-1.webp)
+![new-1](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/new-1.webp)
 
 **Secondly, please pay attention to replacing the corresponding size library file.**
 
@@ -492,7 +492,7 @@ void loop()
 
 Path reference：C:\ESP32_Code\CrowPanel_Advanced_HMI\Arduino_lib Series Library
 
-![new-2](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\new-2.webp)
+![new-2](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/new-2.webp)
 
 **I will use the Advance 7.0-inch product as an example for operation**
 
@@ -502,19 +502,19 @@ Open Arduino IDE runtime library file path
 
 Reference path: C:\Users\14175\Documents\Arduino
 
-![new-3](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\new-3.webp)
+![new-3](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/new-3.webp)
 
 Delete the existing libraries folder
 
-![new-4](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\new-4.webp)
+![new-4](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/new-4.webp)
 
 Paste the copied library Advanced 7.0 folder into this path
 
-![new-5](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\new-5.webp)
+![new-5](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/new-5.webp)
 
 Change the folder name to the original libraries
 
-![new-6](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights\new-6.webp)
+![new-6](https://www.elecrow.com/wiki/assets/images/5.0_3_Use_LVGL_library_to_create_UI_interface_and_light_up_lights/new-6.webp)
 
 Library update completed, restart Arduino IDE.
 

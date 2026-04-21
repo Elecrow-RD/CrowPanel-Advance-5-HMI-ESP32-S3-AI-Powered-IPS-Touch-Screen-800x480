@@ -528,6 +528,7 @@ Library update completed, restart Arduino IDE.
 
 **To set a different brightness level, you must first send 0x10 to turn on the screen, and then send another value to adjust the brightness.**
 
+The buzzer and speaker operate on the same principle as the backlight control: sending 0x15 activates the buzzer, while sending 0x16 turns it off. Sending 0x17 turns the speaker on, and sending 0x18 turns it off.
 
 
 **4.3 inch  Version 1.1** 、**5 inch Version 1.2** and **7 inch Version 1.3**

@@ -106,7 +106,7 @@ while (1) {
       delay(100);
     }
   }
-  // 开始向地址 0x30 发送命令 0x10
+  //Start sending command 0x10 to address 0x30
   sendI2CCommand(0x10);
 
   // Init Display
@@ -140,8 +140,7 @@ while (1) {
   lv_indev_drv_register(&indev_drv);
 
   delay(100);
-  // // 开始向地址 0x30 发送命令 0x10
-  // sendI2CCommand(0x10);
+
   gfx.fillScreen(TFT_BLACK);
   // lv_demo_widgets();// Main UI interface
   ui_init();

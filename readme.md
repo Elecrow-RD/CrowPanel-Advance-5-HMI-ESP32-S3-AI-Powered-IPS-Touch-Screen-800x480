@@ -19,7 +19,9 @@
 | ---- | -------- | -------- | ------ |
 | 1    | V1.0     | V1.0     | old |
 | 2    | V1.1     | V1.1     | old |
-| 3    | V1.2     | V1.2     | latest |
+| 3    | V1.2     | V1.2     | old |
+| 4    | V1.3     | V1.3     | latest |
+
 ### Version update points:
 
 ① **Version 1.1** updated the control of backlight on the basis of the original, the backlight of version 1.1 is controlled by STC8H1K28 microcontroller, and the backlight is lit in the program by sending the value to this microcontroller address (0x30). The values are 0x05, 0x06, 0x07, 0x08, 0x09 and 0x10, where 0x05 switches off the backlight and 0x10 is the maximum brightness.
@@ -35,6 +37,8 @@ Updated the button module.
 The buzzer control principle mirrors that of the backlight: sending 246 activates the buzzer, while sending 247 deactivates it.
 
 ④ **Version 1.2** ,Only the button component has been updated. All other hardware and I/O pins remain the same as in the previous version.
+
+⑤ **Version 1.3** is simply an update to the previous version that modifies the packaging of the touchscreen FPC connector. There are no other differences.
 
 ### 3, product information
 

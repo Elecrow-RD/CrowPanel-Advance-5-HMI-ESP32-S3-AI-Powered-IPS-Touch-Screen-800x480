@@ -20,7 +20,7 @@
 | 1    | V1.0     | V1.0     | old |
 | 2    | V1.1     | V1.1     | old |
 | 3    | V1.2     | V1.2     | old |
-| 4    | V1.3     | V1.3     | latest |
+| 4    | V1.3     | V1.2     | latest |
 
 ### Version update points:
 
